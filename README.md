@@ -82,5 +82,3 @@ Included dataset design, annotation, and agreement analysis.
 **B.Tech. Computer Science (Data Science)**, Vellore Institute of Technology — *2019–2023*
 
 ---
-
-Last updated: {{ site.time | date: "%B %Y" }}
