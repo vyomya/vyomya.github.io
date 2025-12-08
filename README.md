@@ -1,9 +1,3 @@
----
-title: Vyom Agarwal
-layout: home
-permalink: /
----
-
 # Vyom Agarwal
 
 ## About
