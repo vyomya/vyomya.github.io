@@ -50,6 +50,10 @@ Built using an orchestrator–worker agent architecture with shared memory, tool
 A full pipeline for collecting, processing, and analyzing sentiment trends on Twitter/X.  
 Includes data ingestion, transformer-based classification, aggregation, and a dashboard interface.
 
+### [The Geography of Fast Food Pricing](https://vyomya.github.io/restaurant-pricing/)
+**Repository:** https://vyomya.github.io/restaurant-pricing/
+A comprehensive data science tutorial analyzing how local economic conditions, minimum wages, and business models influence fast-food menu pricing across 6,717 restaurants in the United States.
+
 ### Spatial Audio Localization Research  
 Research on deep learning for 3D sound source localization using microphone arrays.  
 Explores transformer architectures for robustness to reverberation, noise, and overlapping acoustic events.
