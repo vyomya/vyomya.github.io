@@ -40,8 +40,8 @@ I am based in College Park, Maryland.
 
 ## Projects
 
-### [Personal Agent AI](https://github.com/vyomya/personal-agent-ai)  
-**Repository:** https://github.com/vyomya/personal-agent-ai  
+### [Personal Agent AI](https://github.com/vyomya/PAAI)  
+**Repository:** https://github.com/vyomya/PAAI  
 A multi-agent executive assistant capable of autonomous task management, email summarization, prioritization, and response drafting.  
 Built using an orchestrator–worker agent architecture with shared memory, tool routing, and LangChain-style execution patterns.
 
