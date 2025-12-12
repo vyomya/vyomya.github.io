@@ -1,4 +1,7 @@
 # Vyom Agarwal
+**[Email](vyom.wal@gmail.com)**  
+**[GitHub](https://github.com/vyomya)**  
+**[LinkedIn](https://www.linkedin.com/in/vyom-agarwal1/)**
 
 ## About
 I am a graduate student in **Applied Machine Learning** at the **University of Maryland, College Park (2025–2027)**.  
@@ -11,11 +14,7 @@ My broader interests include:
 - Generative modeling (GANs, diffusion models)  
 - Large-scale ML systems and model optimization  
 
-I am based in College Park, Maryland.
-
-**Email:** vyom.wal@gmail.com  
-**GitHub:** https://github.com/vyomya  
-**LinkedIn:** https://www.linkedin.com/in/vyom-agarwal1/
+I am based in College Park, Maryland, USA.
 
 ---
 
