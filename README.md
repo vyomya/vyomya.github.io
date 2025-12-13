@@ -1,5 +1,5 @@
-# Vyom Agarwal
-**[Email](vyom.wal@gmail.com)**  
+# Vyom Agarwal  
+**Email: vyom.wal@gmail.com**  
 **[GitHub](https://github.com/vyomya)**  
 **[LinkedIn](https://www.linkedin.com/in/vyom-agarwal1/)**
 
